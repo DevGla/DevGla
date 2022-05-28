@@ -8,13 +8,13 @@ Sou apaixonado por Tecnologia, video-game, mundo financeiro e desafios.
 
 -----  
 Estou trabalhando em projetos todo dia, sempre mantendo meu conhecimento fresco e atualizado.
-Aqui estão alguns links interessantes para mais informações:
-- [linkedin](https://www.linkedin.com/in/glalmeida-/).
-- [GitHub](https://github.com/DevGla?tab=repositories).
 
 🤖 Minhas Hard Skills: ReactJS, Redux, API, ReactHooks.
 
 -----
+#### Contatos:
+ <a href = "mailto:glalmeida.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/glalmeida-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div>
   <a href="https://github.com/DevGla">
@@ -30,8 +30,5 @@ Aqui estão alguns links interessantes para mais informações:
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
   
-------
-  
-#### Contatos:
-  
-  :mailbox: glalmeida.dev@gmail.com
+------  
+
