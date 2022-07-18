@@ -2,14 +2,14 @@
 
 # Algumas informações sobre mim:
 
-Eu sou Engenheiro de Petróleo e gás formado e atualmente estudo DesenvolvimentoWeb FullStack na Trybe.👨‍💻
+Eu sou Engenheiro de Petróleo e gás formado e atualmente estudo Desenvolvimento Web FullStack na Trybe.👨‍💻
 
 Sou apaixonado por Tecnologia, video-game, mundo financeiro e desafios.
 
 -----  
 Estou trabalhando em projetos todo dia, sempre mantendo meu conhecimento fresco e atualizado.
 
-🤖 Minhas Hard Skills: ReactJS, Redux, API, ReactHooks.
+🤖 Minhas Hard Skills: ReactJS, Redux, API, ReactHooks, Docker, NodeJS, TypeScript, SQL.
 
 -----
 #### Contatos:
